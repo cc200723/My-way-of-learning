@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+ //用代码画一个爱心
 int main() {
     for (float y = 1.5f; y > -1.5f; y -= 0.1f) {
         for (float x = -1.5f; x < 1.5f; x += 0.05f) {
