@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//用代码画一个爱心
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 #include <stdio.h>
 
