@@ -1,0 +1,1 @@
+Point类与Rectangle类为组合关系
